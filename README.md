@@ -1,7 +1,9 @@
 my-node-app
 
 University Assignment: Containerization and Orchestration
+
 Course: Containerization and Orchestration
+
 Faculty: Faculty of Mathematics and Informatics, Plovdiv University "Paisii Hilendarski"
 
 This is a minimal Node.js application created as a homework assignment for the "Containerization and Orchestration" course. The main goal is to practice Docker containerization and understand how to run a Node.js application in a containerized environment.
